@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngambang&label=Profile%20views&color=0e75b6&style=flat" alt="ngambang" /> </p>
-
 - website [ngambang.com](ngambang.com)
 
 <p align="left">
